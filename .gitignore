@@ -1,0 +1,5 @@
+**/.DS_Store
+src/ex00/TanksClient/socket-client.jar
+src/ex00/TanksClient/target/
+src/ex00/TanksServer/socket-server.jar
+src/ex00/TanksServer/target/
