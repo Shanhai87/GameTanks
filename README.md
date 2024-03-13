@@ -31,8 +31,6 @@ Minimum requirements for Java junior developers:
 14. English
       ...
 
-![Types of Headache](misc/images/Types_of_headache.png)
-
 # Chapter II
 ### General Rules
 - Use this page as the only reference. Do not listen to any rumors and speculations about how to prepare your solution.
@@ -77,8 +75,6 @@ Minimum requirements for Java junior developers:
 JavaFX allows to create high-quality Desktop applications. Despite the fact that JavaFX is not very popular in corporate development, this technology is applied in a wide range of "private" solutions. JavaFX is also a good tool for exploring mechanisms of Java programming language.
 
 Your objective is to implement the client/server game where the Socket server will allow two Java FX clients to play a tank game with each other. An example of the client-side appearance is provided below:
-
-![tanks](misc/images/tanks.png)
 
 Thus, the game should enable two users to "drive" their tank and decrease the enemy's HP by shooting.
 
